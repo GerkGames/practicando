@@ -33,7 +33,7 @@ public class Main {
             miVehiculoTobioGermanAriel2223.comprar(100);
         } catch (Exception e)
         {
-            System.out.print("Fallo al comprar");
+            System.out.print("Fallo al comprarr");
         }
     }
 

@@ -116,7 +116,7 @@ public class VehiculoTobioGermanAriel2223 {
     public void setStock(int stock) {
         this.stock = stock;
     }
-    
+    //un comentario de practica
 }  
    
     
